@@ -1,3 +1,2 @@
-# Abhudaya_avionics_and_recovery 
-This repository consists of answers and of all the questions given in the avionics and control application for Abhudaya, I have added the necessary simulations and schematics.
-I have opted for writing answers by hand, and have converted them into pdfs and have added them, as writing foumula and all in computer takes more time, as compared to writing them by hand. 
+The given repository consists of consists of application for the post of project member in the rocketry team of IIT-Madras, Abhudaya. There are applications for two verticals, Avionics and recovery and Propulsion. I have added hand written pdfs and the necessary simulations and reports and other files. 
+
